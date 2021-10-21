@@ -1,13 +1,17 @@
 # <JOBS-4-MORE>
+
 ## Description
-Look up a job by industry and experience level to find the job that be best suited for your skillset and experience! A list of jobs will show best on the parameters chosen and you can view each job in more details once you click on the link to the job. Details shown are the job title, company, description, and Google Maps so you can look up the area where your potential job is located. 
+
+Look up a job by industry and experience level to find the job that be best suited for your skillset and experience! A list of jobs will show best on the parameters chosen and you can view each job in more details once you click on the link to the job. Details shown are the job title, company, description, and Google Maps so you can look up the area where your potential job is located.
 
 ## Table of Contents
+
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
 ## Usage
+
 - [JOBS 4 MORE Respository](https://github.com/matthewjflanagan/JOBS-4-MORE)
 - [JOBS 4 MORE Website](https://matthewjflanagan.github.io/JOBS-4-MORE/)
 
@@ -16,12 +20,14 @@ Look up a job by industry and experience level to find the job that be best suit
 ![Job Description Page](assets/jobdescription.PNG)
 
 ## Credits
-* Mario Bruno: Wireframing, HTML, & CSS styling 
-* Olsen Ogouchi: Muse & Google Maps API 
-* Matthew Flanagan: Repository, CSS, Functionality, & README
-* Yanghui Xi: Muse & Jooble API
+
+- Mario Bruno: Wireframing, HTML, & CSS styling
+- Olsen Ogouchi: Muse & Google Maps API
+- Matthew Flanagan: Repository, CSS, Functionality, & README
+- Yanghui Xi: Muse & Jooble API
 
 ## License
+
 MIT License
 Copyright (c) [2021] [matthewflanagan]
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -41,9 +47,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## How to Contribute
+
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
 ## License
+
 MIT License
 
 Copyright (c) [2021] [matthewflanagan]
@@ -67,4 +75,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## How to Contribute
+
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+If you have questions or problems about this repository, please email me at yanghui.xi@gmail.com.
